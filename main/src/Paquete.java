@@ -1,6 +1,6 @@
 package main;
 
-public class Paquete {
+public class Paquete{
     private int id_paquete;
     private String codigo_paquete;
     private int peso_kg;
